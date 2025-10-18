@@ -1,0 +1,41 @@
+# pandas -> Data analysis aur data manipulation ke liye use hoti hai (Excel jese tables handle karne ke liye)
+pandas
+
+# mlflow -> Machine Learning experiments ko track aur manage karne ke liye (model training, metrics, aur deployment)
+mlflow
+
+# notebook -> Jupyter Notebook environment run karne ke liye (interactive data science coding)
+notebook
+
+# numpy -> Numerical computations aur arrays ke liye (matrix operations aur mathematical functions)
+numpy
+
+# scikit-learn -> Machine Learning models build aur evaluate karne ke liye (classification, regression, clustering)
+scikit-learn
+
+# matplotlib -> Graphs aur visualizations banane ke liye (bar chart, line chart, scatter plot waghera)
+matplotlib
+
+# python-box -> Dictionaries ko object jese use karne ke liye (dict["key"] ki jagah dict.key likhne ke liye)
+python-box
+
+# pyYAML -> YAML files ko read aur write karne ke liye (configurations store karne ke liye useful)
+pyYAML
+
+# tqdm -> Loops ke andar progress bar dikhane ke liye (training ya data processing progress dekhne ke liye)
+tqdm
+
+# ensure -> Type aur value validation ke liye (ye ensure karta hai ke function me sahi type ka data jaye)
+ensure
+
+# joblib -> Models ko save/load karne aur parallel processing ke liye (pickle se fast hoti hai large data ke liye)
+joblib
+
+# types-PyYAML -> PyYAML library ke liye type hints provide karta hai (VS Code me auto-completion aur linting improve karta hai)
+types-PyYAML
+
+# Flask -> Lightweight web framework (ML models ko API ke through deploy karne ke liye use hota hai)
+Flask
+
+# Flask-Cors -> Flask app me CORS enable karne ke liye (taake frontend aur backend alag domain se communicate kar saken)
+Flask-Cors
